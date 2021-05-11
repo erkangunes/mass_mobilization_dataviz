@@ -1,6 +1,6 @@
 # Mass Mobilization Across the World
 
-A data exploration tool created using the [Mass Mobilization Project](https://massmobilization.github.io/) data and the P5.JS library. You can use the application [here](https://editor.p5js.org/erkangunes/present/qbeZ2O-pl).
+A data exploration tool created using the [Mass Mobilization Project](https://massmobilization.github.io/) data and the P5.JS library. The information presented is the number of mass mobilization events (e.g. political protest) within a month/year. You can use the application [here](https://editor.p5js.org/erkangunes/present/qbeZ2O-pl).
 
 
 ![](https://raw.githubusercontent.com/erkangunes/mass_mobilization_dataviz/master/screenshot.jpg)
